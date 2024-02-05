@@ -25,3 +25,4 @@ The data was collected from a repository on Kaggle: [Click here to view]( https:
 - SQL Server - Data analysis
 
 ### Data Preparation
+
