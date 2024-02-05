@@ -6,7 +6,6 @@
 An exploratory data analysis dive into the aftermath of a marketing campaign by a small skincare business called O'Honey and forecasts for future marketing decisions
 
 
-
 ![‎Marketing Campaign ‎002](https://github.com/fireball777/Marketing-Campaign-Analysis/assets/147949298/b570decf-0986-42e5-9fda-081716efd215)
 
 
@@ -87,4 +86,13 @@ By virtue of the analysis performed, I recommend that;
 2. They should focus on servicing customer segments that don't respond well to the current marketing campaign
 3. The business should focus on maintaining the positive results of the marketing campign over time
 
-### 
+### Limitations 
+
+I did not remove any zero values from the original data, this could cause a lot of outliers and possibly skew the results of my analysis
+
+### Reference
+
+Hoffman, D.L. and Franke, G.R., 1986. Correspondence analysis: graphical representation of categorical data in marketing research. Journal of Marketing Research, 23(3), pp.213-227.
+
+
+🫠🫠🫠
